@@ -1,0 +1,17 @@
+h2 {
+  color: black;
+  display: block;
+  margin: 1px;
+  border: 3px;
+}
+h3 {
+  border: 5px solid;
+  background-color: black;
+  height: 4px;
+}
+h4 {
+  width: 200px;
+  height: 200px;
+  border: 2px solid;
+  padding: 25px;
+}
